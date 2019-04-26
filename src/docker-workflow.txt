@@ -1,0 +1,5 @@
+fork a project in github
+if necessary change the remote url with `git remote set-url origin https://github.com/raphaelpinel/
+product-compare-react.git`
+
+create Dockerfile
